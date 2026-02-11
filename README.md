@@ -3,7 +3,7 @@ This repository contains the Python scripts used to train and evaluate the best 
 The main files for the final results are:
 
 - 0_Youtube_Extractions
-- the main script/notebook (main file)
+- Final_Report.ipynb
 
 All other folders (1_Preprocessing, 2_Models, aggregation_and_models, and test_logistic_stacking) contain additional experiments and intermediate tests we ran.
 
