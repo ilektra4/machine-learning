@@ -12,9 +12,9 @@ The model was trained on the Kaggle dataset with the selected hyperparameters:
 - maximum depth of 3
 - learning rate of 0.05
 - with 5-fold stratified cross-validation.
-  
-The trained model was used to generate predictions on a separate test dataset (dolos dataset). 
-On the test dataset, the model achieved an accuracy of 0.651 and an AUC of 0.682. 
-On the Kaggle dataset, the model achieved an accuracy of 0.583 and an AUC of 0.667. 
+
+On the Dolos (testing) dataset, the model achieved an accuracy of 0.651 and an AUC of 0.682. 
+
+The trained model was used to generate predictions on a separate dataset (Kaggle dataset) where it achieved an accuracy of 0.583 and an AUC of 0.667. 
 
 All training and prediction steps are implemented in the provided XGBoost_Training_and_Generalisation_FINAL.ipynb file, which were used to obtain these results.
