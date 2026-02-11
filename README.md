@@ -1,4 +1,8 @@
 This repository contains the Python scripts used to train and evaluate the best deception detection model using XGBoost. 
+The main files for the final results are:
+-0_Youtube_Extractions
+-the main script/notebook (main file)
+All other folders (1_Preprocessing, 2_Models, aggregation_and_models, and test_logistic_stacking) contain additional experiments and intermediate tests we ran.
 
 The model was trained on the Kaggle dataset **name_to_be_added** with the selected hyperparameters: 
 - 600 estimators
